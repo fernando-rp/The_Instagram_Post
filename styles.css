@@ -51,13 +51,12 @@ html{
 .imagen{
     height:300px;
     width:100%;
+    text-align: center;
     background-color: black;
 }
 
 .imagen img{
     height:100%;
-    margin-left: 60px;
-    margin-right: auto;
     background-color: black;
 
 }
